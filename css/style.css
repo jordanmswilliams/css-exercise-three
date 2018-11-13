@@ -25,20 +25,26 @@ nav {
   width: 10%;
   display: inline-block;
   padding: 20px;
-  border-bottom: 1px solid #3333336e;
 }
 
 .content{
   width: 89%;
   display: inline-block;
   padding: 20px;
-  border-bottom: 1px solid #3333336e;
 }
 
 .restaurant-list {
   padding-top: 50px;
   width: 100%;
   background-color: #aaa;
+}
+
+.location{
+  border-bottom: 1px solid #3333336e;
+}
+
+.location:hover{
+  color: #b4b2b4
 }
 
 h1{
